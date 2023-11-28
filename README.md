@@ -1,5 +1,5 @@
 # Movies
-Stack, Tab Navigators 그리고 API 데이터와 작업, Styled Components 활용 UI 를 빌드. 인피니트 스크롤을 구현.
+Stack, Tab Navigators 그리고 API 데이터와 작업, Styled Components 활용, UI 빌드. 인피니트 스크롤 구현.
 
 ![KakaoTalk_20231128_195213937](https://github.com/ParkSeokJin1/Movies/assets/134951090/5ba8d715-9249-4f83-ac24-eff3937ec08f)
 
